@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @EaranardMso
-- 👀 I’m interested in A wide range of subject matters including computor science, data science, 3d modeling, engeneering, and power use of windows and linud among others.
-- 🌱 I’m currently learning computer science and 3d modeling. I'm also always learning Windows and Linux (Currently PopOs).
-- 📫 How to reach me Really you don't.
+# Earanard
+Hi, I'm Earanard. I'm a High School student, currently learning computor science. This is my personal git-hub repository, and it will contain any and all code that I'm working on, either personally or for class. Most of this repository is private, and I'm honestly not sure how you found me, but here I am.
 
-<!---
-EaranardMso/EaranardMso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Interests
+- Computer Science
+- Data Science
+- Networking
+- 3D Modeling
+- Engeneering
+- AutoHotKey
+- Windows (Power Use)
+- WSL (Windows Subsystem for Linux)
+- Linux (currently using PopOs on my "desktop" a thinkpad p15s)
